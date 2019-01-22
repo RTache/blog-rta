@@ -1,7 +1,7 @@
 ---
 title: "Today I Learned"
 permalink: /categories/today-i-learned/
-layout: category
+layout: categories
 author_profile: false
 ---
 
