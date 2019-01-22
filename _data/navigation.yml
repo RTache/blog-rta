@@ -1,7 +1,5 @@
 main:
   - title: "Contact"
     url: /contact
-  - title: "Posts"
-    url: /posts
   - title: "Today I learned"
     url: categories/today-i-learned
