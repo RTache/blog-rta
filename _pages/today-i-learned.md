@@ -1,8 +1,6 @@
 ---
-title: "Today I Learned"
 permalink: /categories/today-i-learned/
-layout: categories
+layout: category
 author_profile: false
+taxonomy: today-i-learned
 ---
-
-Sample post listing for the category today i learned.
