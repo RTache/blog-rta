@@ -1,5 +1,5 @@
 main:
+  - title: "Today I learned"
+    url: /categories/today-i-learned
   - title: "Contact"
     url: /contact
-  - title: "Today I learned"
-    url: categories/today-i-learned
