@@ -1,7 +1,11 @@
 ---
 layout: single
-title:  "First post"
+title:  "Preparation voyage"
 date:   2019-01-22
 categories: [travel]
 ---
-Premier post simple.
+<figure>
+	<img src="/assets/images/sunyu-kim-unsplash.jpg">
+</figure>
+
+Premier post simple avec une image.
