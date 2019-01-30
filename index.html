@@ -1,10 +1,27 @@
 ---
-layout: category
+layout: single
 author_profile: true
-taxonomy: travel
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: /assets/images/sunyu-kim-unsplash.jpg
     caption: "Photo credit: Sunyu Kim on Unsplash"
 ---
+
+<ul class="post-list">
+    {% for post in site.categories.travel %}
+        <li>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+        {{ post.excerpt | strip_html | truncatewords:75 }}
+        <a href="{{ post.url }}">Read More &raquo;</a>
+        {% if post.preview_pic %}
+            <div class="preview-pic">
+                <a href="{{ post.url }}"><img src="{{ post.preview_pic }}"></a>
+            </div>
+        {% endif %}
+    {% endfor %}
+</ul>
