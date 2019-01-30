@@ -3,7 +3,7 @@ layout: single
 title:  "Preparation voyage (copy)"
 date:   2019-01-22
 categories: [travel]
-preview_pic: "/assets/images/sunyu-kim-unsplash.jpg"
+preview_pic: "/blog-rta/assets/images/sunyu-kim-unsplash.jpg"
 ---
 
 Post simple avec une image.
