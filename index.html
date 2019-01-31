@@ -16,12 +16,16 @@ header:
             </h2>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </li>
-        {{ post.excerpt | strip_html | truncatewords:75 }}
-        <a href="{{ post.url }}">Read More &raquo;</a>
+    <div>
         {% if post.preview_pic %}
-            <div class="preview-pic">
-                <a href="{{ post.url }}"><img src="{{ post.preview_pic }}"></a>
+            <div>
+                <a href="{{ post.url }}"><img src="{{ site.baseurl }}{{ post.preview_pic }}"></a>
             </div>
         {% endif %}
+        <div>
+            {{ post.excerpt | strip_html | truncatewords:75 }}
+            <a href="{{ post.url }}">Read More &raquo;</a>
+        </div>
+    </div>
     {% endfor %}
 </ul>
