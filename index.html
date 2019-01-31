@@ -8,17 +8,18 @@ header:
     caption: "Photo credit: Sunyu Kim on Unsplash"
 ---
 
-<ul class="post-list">
+<div class="post-list">
     {% for post in site.categories.travel %}
-        <li>
+
+    <div>
             <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        </li>
+        </div>
     <div>
         {% if post.preview_pic %}
-            <div>
+        <div class="align-left">
                 <a href="{{ post.url }}"><img src="{{ site.baseurl }}{{ post.preview_pic }}"></a>
             </div>
         {% endif %}
@@ -28,4 +29,4 @@ header:
         </div>
     </div>
     {% endfor %}
-</ul>
+</div>
