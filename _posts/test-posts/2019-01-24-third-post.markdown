@@ -2,7 +2,7 @@
 layout: single
 title:  "Preparation voyage (copy)"
 date:   2019-01-22
-categories: [travel]
+categories: [test]
 preview_pic: "/assets/images/sunyu-kim-unsplash.jpg"
 ---
 
