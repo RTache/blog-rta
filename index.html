@@ -25,7 +25,6 @@ header:
         {% endif %}
         <div>
             {{ post.excerpt | strip_html | truncatewords:75 }}
-            <a href="{{ post.url | prepend: site.baseurl }}">Read More &raquo;</a>
         </div>
     </div>
     {% endfor %}
