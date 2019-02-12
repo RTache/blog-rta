@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Preparation voyage"
+title:  "Préparation voyage"
 date:   2019-01-22
 categories: [travel]
 ---
