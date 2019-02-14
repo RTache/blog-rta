@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : Un français en Corée
 title_separator          : "-"
 name                     : Rémi Taché
-description              : Live in Korea for a french guy
+description              : Life in Korea for a french guy
 url                      : https://rtache.github.io/blog-rta/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
