@@ -5,7 +5,7 @@ date:   2019-04-21
 categories: [travel]
 ---
 
-Bonjour tous le monde
+Bonjour tout le monde
 
 Premier vrai post avec du contenu :) 
 
