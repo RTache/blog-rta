@@ -1,0 +1,31 @@
+---
+layout: single
+title:  "Defi en Corée"
+date:   2019-04-21
+categories: [travel]
+---
+
+Salut à tous
+
+
+Quand je suis allé en Argentine avant de partir j'avais quelques défis à faire.
+Cette année je n'ai pas trop demandé aux gens avant de partir, mais en ce moment j'ai plus de temps. 
+Pour ceux qui se souviennent par exemple j'avais eu de faire une photo avec un livre dans une jungle. 
+Alias le livre de la jungle
+Pour ceux qui en doutaient j'avais bien réussi.
+<figure>
+	<img src="/assets/images/2017-07-21LeLivreDeLaJungle.JPG">
+</figure>
+
+J'ai trouvé ça sympa et je pensais faire pareil pendant mon voyage en Corée.
+Du coup si vous voulez me poser des défis marquez les commentaires ou dans le pad suivant : https://pad.gresille.org/p/Defi 
+
+Si vous voulez un format: nom du défi: la chose à faire, vous pouvez ajouter un enjeu si vous voulez.
+Par exemple: Le défi de Thomas : Jouer une partie de Puerto Rico avec un coréen en vrai / une bouteille de charteuse en jeu
+
+Je viens de mettre en place les commentaires. 
+Si vous avez des soucis hesitez pas à m'envoyer un message autrement.
+
+Si il y a beaucoup de défis je créerai une page dédiée sur le blog.
+
+Go commenter !
