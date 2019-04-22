@@ -17,4 +17,9 @@ C'est la -> https://goo.gl/maps/Qkh92syHnpELeKM4A
 Pas de google street view en Corée par contre. 
 
 J'ai fait mes premières visites, Seoul Tower, et le Musée national de Corée.
-
+<figure>
+	<img src="assets/images/2019-04-21CherryBlossom.jpg">
+</figure>
+<figure>
+	<img src="assets/images/2019-04-21SeoulTower.jpg">
+</figure>
