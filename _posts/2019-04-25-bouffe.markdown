@@ -11,7 +11,7 @@ Après une semaine en corée j'ai pu tester quelqu'un des plats locaux.
 Comme je m'y attendais c'est assez epicé, mais ça reste raisonable.
 Du coup un plat typique coréen ça ressemble à ça :
 <figure>
-	<img src="/assets/images/ClassicMeal.jpg">
+	<img src="/assets/images/bouffe/ClassicMeal.jpg">
 </figure>
 
 Le kimchi (김치) en haut à gauche c'est du chou chinois fermenté avec du piment, il y en a à tous les repas. 
