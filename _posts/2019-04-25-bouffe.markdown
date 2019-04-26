@@ -1,0 +1,44 @@
+---
+layout: single
+title:  "La bouffe en Corée"
+date:   2019-04-25
+categories: [travel]
+---
+
+Salut à tous
+
+Après une semaine en corée j'ai pu tester quelqu'un des plats locaux.
+Comme je m'y attendais c'est assez epicé, mais ça reste raisonable.
+Du coup un plat typique coréen ça ressemble à ça :
+<figure>
+	<img src="/assets/images/ClassicMeal.jpg">
+</figure>
+
+Le kimchi (김치) en haut à gauche c'est du chou chinois fermenté avec du piment, il y en a à tous les repas. 
+Le riz et aussi la à tous les repas c'est un peu comme le pain en France
+Après un plat principal et des plats secondaires.
+Dans les plats principaux on trouve souvent de la viande épicée, des nouilles froides ou chaudes, ou encore des soupes.
+
+<figure>
+	<img src="/assets/images/SpicyChiken.jpg">
+	<img src="/assets/images/bulgogi.jpg">
+	<img src="/assets/images/noodleSoup.jpg">
+	<img src="/assets/images/ramen.jpg">
+</figure>
+
+Mon plat préféré pour l'instant reste le bibimbap 비빔밮 .
+(pas la photo mais le prochain que je mange je vous apporte la photo promis)
+
+Dans les trucs que j'ai pas encore pas encore testé il y a le barbecue coréen mais de ce que j'ai pu voir c'est juste de la viande ça m'interesse moins.
+
+Après au niveau des dessert j'ai pas trouvé grand chose, le meilleur que j'ai pu mangé reste cette glace.
+<figure>
+	<img src="/assets/images/GreenIceCream.jpg">
+</figure>
+
+Du coup pour partagé la culture françasie en corée de mon coté j'ai cuisiné un peu.
+<figure>
+	<img src="/assets/images/crepes.jpg">
+</figure>
+
+Si vous avez des idées d'autres idées de recette française que je pourrais cuisiner pour répandre la bonne parole de la cuisine française hésitez pas à les partager dans les commentaires.
