@@ -7,8 +7,8 @@ categories: [travel]
 
 Coucou les gens :)
 
-Après une semaine en corée j'ai pu tester quelques un des plats locaux.
-Comme je m'y attendais c'est assez epicé, mais ça reste raisonable.
+Après une semaine en corée j'ai pu tester quelques uns des plats locaux.
+Comme je m'y attendais c'est assez epicé, mais ça reste raisonnable.
 Du coup un plat typique coréen ça ressemble à ça :
 <figure>
 	<img src="/assets/images/bouffe/ClassicMeal.jpg">
@@ -36,7 +36,7 @@ Après au niveau des dessert j'ai pas trouvé grand chose, le meilleur que j'ai 
 	<img src="/assets/images/bouffe/GreenIceCream.jpg">
 </figure>
 
-Du coup pour partagé la culture françasie en corée de mon coté j'ai cuisiné un peu.
+Du coup pour partager la culture françasie en corée de mon coté j'ai cuisiné un peu.
 <figure>
 	<img src="/assets/images/bouffe/crepes.jpg">
 </figure>
