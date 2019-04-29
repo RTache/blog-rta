@@ -21,7 +21,7 @@ Je vous laisse une petite description de chacun si vous voulez choisir
 
 Une carte avec tous les palaces : 
 
-https://drive.google.com/open?id=1yyFin5FqAV7Dayt30RHJN0KcBvyDLGBJ&usp=sharing
+<https://drive.google.com/open?id=1yyFin5FqAV7Dayt30RHJN0KcBvyDLGBJ&usp=sharing>
 
 
 Ils ont tous été détruits et reconstruits une première fois durant l'invasion Japanaise (16eme siecle), et une seconde fois durant l'occupation Japonaise (20eme siecle). 
@@ -37,7 +37,7 @@ Le jardin est vraiment magnifique et reposant.
 </figure>
 
 Si vous voulez le visiter il vaut mieux réserver à l'avance sur le site suivant :
-https://ticket.uforus.co.kr/web/main?shopEncode=
+<https://ticket.uforus.co.kr/web/main?shopEncode=>
 Attention toutes les visites guidées ne sont pas en anglais il faut bien réserver celle dans votre langue.
 
 Les autres sont aussi sympa à voir pour voir a quoi ressemble les anciens batiments.
@@ -49,6 +49,8 @@ Les autres sont aussi sympa à voir pour voir a quoi ressemble les anciens batim
 Si vous voulez prendre de super photos de vous j'ai croisé pas mal de gens en costume traditionnel le hanbok. 
 Les costumes peuvent se louer pas trop loin, si vous êtes en costumes vous aurez accès gratuitement à tous les palaces.
 Je n'ai pas osé prendre en photo les gens mais si vous voulez voir à quoi ça ressemble visiter le lien suivant :
-https://www.google.com/search?tbm=isch&as_q=hanbok&tbs=isz:lt,islt:4mp,sur:fmc
+<https://www.google.com/search?tbm=isch&as_q=hanbok&tbs=isz:lt,islt:4mp,sur:fmc>
+
+J'espere vous donnez envie de venir faire un petit tour par ici un de ces jours.
 
  
