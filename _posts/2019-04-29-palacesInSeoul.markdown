@@ -8,8 +8,8 @@ categories: [travel]
 Hello
 
 Si un jour vous visitez Séoul une des choses à faire est de visiter les différents grands palaces.
-Ils sont tous proches les un des autres et peuvent donc etre visiter la même journée (si vous en avez le courage).
-Cependant le mieux et de se restreindre à un ou deux pour en profiter un maximum.
+Ils sont tous proches les uns des autres et peuvent donc etre visités la même journée (si vous en avez le courage).
+Cependant le mieux est de se restreindre à un ou deux pour en profiter un maximum.
 Les palaces sont Gyeongbokgung, Changdeokgung, Changgyeonggung, Jongmyo Shrine, Deoksugung, Gyeonhuigung
 
 
