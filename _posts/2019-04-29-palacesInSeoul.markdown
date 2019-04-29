@@ -15,9 +15,9 @@ Les palaces sont Gyeongbokgung, Changdeokgung, Changgyeonggung, Jongmyo Shrine, 
 
 Je vous laisse une petite description de chacun si vous voulez choisir 
 * Gyeongbokgung c'est le plus grand et le plus imposant des palaces c'etait le siege de la royauté.
-* Changdeokgung et Changgyeonggung font partie d'un meme palace. A Changdeokgung se situe un des plus beau jardin que j'ai pu visité
-* Jongmyo Shrine et le plus ancien sanctuaire et un des mieux préservé il fait partie des sites de l'Unesco protégé pour ça valeur historique
-* Deoksugung et/ou Gyeonghuigung sont plus petits ce qui pourra plaire à certaine personne.
+* Changdeokgung et Changgyeonggung font partie d'un meme palace. A Changdeokgung se situe un des plus beaux jardins que j'ai pu visité
+* Jongmyo Shrine est le plus ancien sanctuaire et un des mieux préservé il fait partie des sites de l'Unesco protégés pour sa valeur historique
+* Deoksugung et/ou Gyeonghuigung sont plus petits ce qui pourra plaire à certaines personnes.
 
 Une carte avec tous les palaces : 
 
