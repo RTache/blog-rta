@@ -15,7 +15,7 @@ Les palaces sont Gyeongbokgung, Changdeokgung, Changgyeonggung, Jongmyo Shrine, 
 
 Je vous laisse une petite description de chacun si vous voulez choisir 
 * Gyeongbokgung c'est le plus grand et le plus imposant des palaces c'etait le siege de la royauté.
-* Changdeokgung et Changgyeonggung font partie d'un meme palace. A Changdeokgung se situe un des plus beaux jardins que j'ai pu visité
+* Changdeokgung et Changgyeonggung font partie d'un même palace. A Changdeokgung se situe un des plus beaux jardins que j'ai pu visité
 * Jongmyo Shrine est le plus ancien sanctuaire et un des mieux préservé il fait partie des sites de l'Unesco protégés pour sa valeur historique
 * Deoksugung et/ou Gyeonghuigung sont plus petits ce qui pourra plaire à certaines personnes.
 
@@ -40,7 +40,7 @@ Si vous voulez le visiter il vaut mieux réserver à l'avance sur le site suivan
 <https://ticket.uforus.co.kr/web/main?shopEncode=>
 Attention toutes les visites guidées ne sont pas en anglais il faut bien réserver celle dans votre langue.
 
-Les autres sont aussi sympa à voir pour voir a quoi ressemble les anciens batiments.
+Les autres sont aussi sympa à voir pour voir à quoi ressemble les anciens batiments.
 <figure>
 	<img src="/assets/images/palaces/20190424_JongmyoShrine.jpg">
 	<img src="/assets/images/palaces/20190424_Village.jpg">
@@ -51,6 +51,6 @@ Les costumes peuvent se louer pas trop loin, si vous êtes en costumes vous aure
 Je n'ai pas osé prendre en photo les gens mais si vous voulez voir à quoi ça ressemble visiter le lien suivant :
 <https://www.google.com/search?tbm=isch&as_q=hanbok&tbs=isz:lt,islt:4mp,sur:fmc>
 
-J'espere vous donnez envie de venir faire un petit tour par ici un de ces jours.
+J'espère vous donner envie de venir faire un petit tour par ici un de ces jours.
 
  
