@@ -4,7 +4,7 @@ title:  "Namhansanseong"
 date:   2019-05-04
 categories: [travel]
 ---
-Namhansanseong est  une forteresse qui a étée conçu pour etre une capitale de secours en cas d'invasion.
+Namhansanseong est  une forteresse qui a été conçue pour etre une capitale de secours en cas d'invasion.
 Elle est inscrite au patrimoine mondiale de l'Unesco.
 
 
@@ -14,7 +14,7 @@ Le site offre de nombreux circuits de randonnée, il y en a pour tous les goûts
 	<figcaption>Picture from koreatodo</figcaption>
 </figure>
 
-La forteresse a étée construite par des moines-soldats bouddhistes, on retrouve encore plusieurs temples sur le chemin. 
+La forteresse a été construite par des moines-soldats bouddhistes, on retrouve encore plusieurs temples sur le chemin. 
 <figure>
 	<img src="/assets/images/namhansanseong/20190427_temple.jpg">
 </figure>
