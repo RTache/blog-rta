@@ -25,7 +25,7 @@ Il y a un total de 12.4 km de remparts. Les remparts sont bien préservés et il
 </figure>
 
 La randonnée sur les remparts offre vraiment des points de vues magnifiques.
-D'abord sur Séoul et ensuie sur les montagnes le contraste entre les deux est vraiment saisissant.
+D'abord sur Séoul et de l'autre coté les montagnes. Le contraste entre les deux est vraiment saisissant.
  <figure>
  	<img src="/assets/images/namhansanseong/20190427_SeoulView.jpg">
  	<img src="/assets/images/namhansanseong/20190427_mountainView.jpg">
