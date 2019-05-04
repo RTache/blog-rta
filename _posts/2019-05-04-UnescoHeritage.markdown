@@ -10,7 +10,7 @@ Elle est inscrite au patrimoine mondiale de l'Unesco.
 
 Le site offre de nombreux circuits de randonnée, il y en a pour tous les goûts.
 <figure>
-	<img src="/assets/images/namhansanseong/namhansanseong.jpg">
+	<img src="/assets/images/namhansanseong/namhansanseong.png">
 	<figcaption>Picture from koreatodo</figcaption>
 </figure>
 
