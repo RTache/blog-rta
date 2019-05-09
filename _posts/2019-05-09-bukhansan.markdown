@@ -17,7 +17,7 @@ Le chemin est vraiment sympa :
 	<img src="/assets/images/bukhansan/20190502_river.jpg">
 </figure>
 
-Il y a plusieurs temples sur le chemin qui sont pour la plupart visitable.
+Il y a plusieurs temples sur le chemin qui sont pour la plupart visitables.
 
 <figure>
 	<img src="/assets/images/bukhansan/20190502_temple.jpg">
