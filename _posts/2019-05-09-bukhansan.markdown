@@ -33,8 +33,8 @@ Le point le plus joli et impressionant reste la montée jusqu'au sommet Baegunda
 Mais elle vaut le détour 
  <figure>
  	<img src="/assets/images/bukhansan/20190502_view.jpg">
- 	<img src="/assets/images/bukhansan/20190502_view2.jpg">
- 	<img src="/assets/images/bukhansan/20190502_view3.jpg">
+ 	<img src="/assets/images/bukhansan/20190502_view2.JPG">
+ 	<img src="/assets/images/bukhansan/20190502_view3.JPG">
  	<img src="/assets/images/bukhansan/20190502_viewCouple.JPG">
  </figure>
  
