@@ -7,12 +7,12 @@ categories: [travel]
 
 
 Sokcho (속초) est situé à l'extrémité nord-est de la Corée, au bord de la mer du Japon.
-Ville portuaire, elle est surtout connue pour être au porte du parc national de Seoraksan (설악산).
+Ville portuaire, elle est surtout connue pour être aux portes du parc national de Seoraksan (설악산).
 
 La visite de la ville en elle même est vraiment agréable.
 J'ai commencé mon circuit par visiter le marché aux poissons.
 Le marché est vraiment sympa à visiter et propose tous les produits de la mer sous toutes les formes possibles.
-J'ai vu des crabes, poissons, algues, crustacés, poulpes, le tout vivant ou préparé prêt à manger. 
+J'ai vu des crabes, poissons, algues, crustacés, poulpes, le tout vivant ou préparé prêt à mangé. 
 <figure>
 	<img src="/assets/images/sokcho/20190513_marchéPoisson.jpg">
 	<img src="/assets/images/sokcho/20190513_poissons.jpg">
@@ -23,19 +23,19 @@ Sokcho offre aussi de belles plages où il fait bon regarder les vagues et écou
 	<img src="/assets/images/sokcho/20190513_plage.jpg">
 </figure>
 
-Un des points sympa pour avoir une meilleure vu de la ville est le phare, il est situé à côté d'anciens observatoires qui ont été restaurés.
+Un des points sympa pour avoir une meilleure vue de la ville est le phare, il est situé à côté d'anciens observatoires qui ont été restaurés.
 <figure>
 	<img src="/assets/images/sokcho/20190513_observatoire.jpg">
 </figure>
 
-Sokcho offre aussi à l'intérieur même de la ville une super ballade autour d'un lac. Le tour du lac est bien aménagé même si on peut voir par endroit les ruines dut à un incendie qui a ravagé cette partie de la ville.
+Sokcho offre aussi à l'intérieur même de la ville une super ballade autour d'un lac. Le tour du lac est bien aménagé même si on peut voir par endroit les ruines dû à un incendie qui a ravagé cette partie de la ville.
 
 <figure>
 	<img src="/assets/images/sokcho/20190513_lac1.jpg">
 	<img src="/assets/images/sokcho/20190513_lac2.jpg">
 </figure>
 
-Pour finir si vous avez faim de nombreux restaurants au bord de la mer propose de manger poissons et calamars que l'on choisis en devanture du restaurant.
+Pour finir si vous avez faim de nombreux restaurants au bord de la mer proposent de manger poissons et calamars que l'on choisit en devanture du restaurant.
 Pour certain il vaut mieux y allez à plusieurs.
 <figure>
 	<img src="/assets/images/sokcho/20190513_calamar.jpg">
