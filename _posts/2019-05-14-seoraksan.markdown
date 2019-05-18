@@ -7,7 +7,9 @@ categories: [travel]
 
 
 Seoraksan (설악산) est un parc national, il culmine à 1 708 m d'altitude au Daecheongbong (대청봉). C'est la troisieme plus grande montagne de Corée.  
-Le parc est plutot grand avec une superficie de 98.539km². Le parc est vraiment joli avec beaucoup de rivières, cascades et massifs rocheux typiques. Dans le parc se trouve un téléphérique pour les plus flemards, mais aussi de nombreuses randonées allant de une heure à deux jours pour les accros de la randonée.
+Le parc est plutot grand avec une superficie de 98.539km². Le parc est vraiment joli avec beaucoup de rivières, cascades et massifs rocheux typiques.
+ 
+ Dans le parc se trouve un téléphérique pour les plus flemards, mais aussi de nombreuses randonées allant de une heure à deux jours pour les accros de la randonée.
 J'ai fait une première excursion dans le parc lorsque je suis arrivé à Sokcho. Malheuresement le temps n'était pas au rendez vous. Du coup meme si j'ai pu voir la beauté des temples le jour de l'anniversaire de boudha, je n'avais pas vraiment apprécié le paysage.
 Du coup meme si je suis pas un accro de la randonnée je me suis quand meme dit que tant qu'a etre la autant pas faire les choses à moitié. 
 Je me suis préparé pour deux jours de rando.
