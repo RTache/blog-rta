@@ -78,15 +78,17 @@ Après avoir bien profité du lever du soleil c'est l'heure de la redescente, j'
 J'ai vite compris pourquoi globalement ça monte et ça descend suivant les aretes. 
 Le denivelé est assez rude, globalement ont fait du 1km/heure.
 <figure>
- 	<img src="/assets/images/seoraksan/20190517_dino">
+	<img src="/assets/images/seoraksan/20190517_dino.jpg">
 </figure>
 Après ca vaut le coup les paysages sont magnifiques, on rencontre aussi quelque petits ecureuil et on peut voir quelques plantes sauvages qui sont assez rare.
+
 <figure>
-    <img src="/assets/images/seoraksan/20190517_mountainShadow">
-  	<img src="/assets/images/seoraksan/20190517_eldeweiss">
- </figure>
- Une fois fini la crete du dynosaure reste la descente vers le point d'arrivée, c'est sympa mais j'avoue qu'après autant de kilomètres on apprecie un peu moins. 
- Les derniers kilometres sur le trajet qu'on a deja fait sont super longs.
+	<img src="/assets/images/seoraksan/20190517_mountainShadow.jpg">
+	<img src="/assets/images/seoraksan/20190517_eldeweiss.jpg">
+</figure>
+
+Une fois fini la crete du dynosaure reste la descente vers le point d'arrivée, c'est sympa mais j'avoue qu'après autant de kilomètres on apprecie un peu moins. 
+Les derniers kilometres sur le trajet qu'on a deja fait sont super longs.
  
- Après je suis très content de l'avoir fait, à tous les motivés si vous avez le temps et l'envie n'hesitez pas. 
+Après je suis très content de l'avoir fait, à tous les motivés si vous avez le temps et l'envie n'hesitez pas. 
  
