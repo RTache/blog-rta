@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Seoraksan randonée de 2 jours"
+title:  "Seoraksan randonnée de 2 jours"
 date:   2019-05-17
 categories: [travel]
 ---
