@@ -16,11 +16,11 @@ Le premier site incontournable est "les tumulus 천마총".
 Ces tumulus sont des tombes ou les rois du royaume de Silla ont eté entérrés. 
 Un des tumulus a été excavé et on peut le visiter avec les reliques d'orgine à l'interieur.
 <figure>
-	<img src="/assets/images/gyeongju/interieurTombe.JPGG">
+ 	<img src="/assets/images/gyeongju/interieurTombe.JPG">
 </figure>
 Ici le tumulus du Roi Michou
 <figure>
-	<img src="/assets/images/gyeongju/templeGyongju.JPG">
+ 	<img src="/assets/images/gyeongju/tumulusRoiMichou.JPG">
 </figure>
 
 Un des lieux qui illustre bien le passé historique de la ville est l’Observatoire Cheomseongdae qui est le plus ancien observatoire d'Asie.
