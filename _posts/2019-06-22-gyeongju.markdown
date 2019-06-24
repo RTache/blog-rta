@@ -10,7 +10,7 @@ Gyeongju partie 1 des récits des aventures avec les filles.
 Gyeongju (경주) est une ville connue pour ses vestige historiques.
 
 Cette ville a un passé qui remonte à loin. 
-Elle etait la capitale du royaume de Silla qui fut le premier royaume a unifié la peninsule de Corée.
+Elle etait la capitale du royaume de Silla qui fut le premier royaume à unifier la peninsule de Corée.
 Ce passé historique offre au touriste de nombreux sites à visiter.
 
 Le premier site incontournable est "les tumulus 천마총".
@@ -31,7 +31,7 @@ Un des lieux qui illustre bien le passé historique de la ville est l’Observat
  
  
 Gyeongju a aussi utilisé ce passé historique pour recréer d'anciens monuments tels qu'ils etaient à l'époque.
-La ville à aussi mit en place des éclairages de nuit sur ces monuments pour permettre une visite de nuit.
+La ville a aussi mis en place des éclairages de nuit sur ces monuments pour permettre une visite de nuit.
 Par exemple le palais Imhaejeon ou encore le pont Woljeonggyo.
 <figure>
 	<img src="/assets/images/gyeongju/palais.JPG">
@@ -40,12 +40,14 @@ Par exemple le palais Imhaejeon ou encore le pont Woljeonggyo.
 </figure>
 
 Nous avons mangé les spécialités culinaires de Gyeongju.
+Des pains de Gyeongju fourrés au haricot rouge. Plutot bon je recommande.
+
 <figure>
 	<img src="/assets/images/gyeongju/bouffe.JPG">
 </figure>
 
 Cette ville est vraiment agréable à visiter je recommande fortement.
-Merci à l'organisatrice me m'avoir fait découvrir cette partie de la Corée.
+Merci à l'organisatrice de m'avoir fait découvrir cette partie de la Corée.
 <figure>
 	<img src="/assets/images/gyeongju/groupe.JPG">
 </figure>
