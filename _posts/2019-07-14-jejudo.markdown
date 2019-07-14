@@ -1,0 +1,61 @@
+---
+layout: single
+title:  "Jejudo"
+date:   2019-07-14
+categories: [travel]
+---
+
+Jejudo : partie 2 des récits des aventures avec les filles.
+
+Jejudo (제주도) est une des plus grosses destinations pour le tourisme en Corée. 
+Je la comparerais à la corse pour la France.
+
+C'est une ile volcanique située au Sud de la Corée.
+Le point culminant est le mont Hallasan (하라산). 
+Nous n'avons pas été au sommet car préférant profiter du reste de l'île. 
+Pour les motivés c'est très joli à voir et faire.
+
+Quand l'ile s'est formée elle a laissé des tubes de lave qui ont été découverts et aménagés pour la visite.
+<figure>
+	<img src="/assets/images/jejudo/cave.JPG">
+</figure>
+
+Un peu moins élevé mais avec une super vue nous sommes allé à Seongsan Ilchulbong alias la pointe de l'aube. 
+C'est vraiment super joli et la vue sur la mer est vraiment cool.
+<figure>
+	<img src="/assets/images/jejudo/pointeAube.JPG">
+	<img src="/assets/images/jejudo/pointeAube2.JPG">
+</figure>
+
+Parmi les principales attractions à Jeju figure "le musée du sexe et de la santé" et "le parc du sexe".
+Ces attractions sont, pour le dire franchement, pas très intéressantes. 
+Le principal défaut du musée est le manque de traduction, je n'avais malheureusement pas le niveau. 
+Pour le parc l'entrée est relativement chère et le contenu est assez médiocre, quelques statues de sexes, on a vite fait le tour. 
+Il y a trois magasins, passé le premier moment de curiosité on se rend bien compte qu'il n'y a rien d'original.
+<figure>
+	<img src="/assets/images/jejudo/parcSexe.JPG">
+</figure>
+
+Parmi les visites que j'ai le plus apprécié ce sont les différentes cascades. 
+La première que nous avons visité est la cascade de Jeongbang.
+C'est une des rares cascades au monde qui se jete dans mer. 
+<figure>
+	<img src="/assets/images/jejudo/cascade1.JPG">
+</figure>
+
+Ensuite nous sommes allés aux cascades de Cheonjeyeon. 
+La visite est vraiment sympa et permet d'apprécier le beau temps.
+Elle est composée de trois cascades dont deux super jolies.
+ <figure>
+ 	<img src="/assets/images/jejudo/cascade2.JPG">
+ 	<img src="/assets/images/jejudo/cascade3.JPG">
+ </figure>
+Bien sur Jejudo a des plages exceptionnelles. 
+ <figure>
+ 	<img src="/assets/images/jejudo/plage1.JPG">
+ </figure>
+ 
+Et pour finir bien sûr un beau couché de soleil sur la plage. 
+ <figure>
+ 	<img src="/assets/images/jejudo/Crepuscule.JPG">
+ </figure>
